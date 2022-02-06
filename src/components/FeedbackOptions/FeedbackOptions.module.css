@@ -1,0 +1,15 @@
+.btn {
+  display: flex;
+  justify-content: center;
+  margin-top: 25px;
+}
+.buttons {
+  background-color: #8e44ad;
+  margin: 0 10px;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  font-size: 1.1rem;
+  font-family: inherit;
+  padding: 1.3rem;
+}
